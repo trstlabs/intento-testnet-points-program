@@ -78,7 +78,7 @@ Earn points by integrating Intento into wallets, dApps, and key ecosystem tools.
 
 ---
 
-## 🌍 **Community Engagement**
+## 🌍 **Community Engagement - Content Creator Role on Discord server**
 
 Educate, spread awareness, and grow the Intento ecosystem.
 
@@ -124,7 +124,7 @@ Test and showcase how Intento Flows work.
 
 ---
 
-## 🛡️ **Security & Bug Bounty**
+## 🛡️ **Security & Bug Bounty - Contributor Role on Discord server**
 
 Help secure the network by finding vulnerabilities and reporting bugs.
 
